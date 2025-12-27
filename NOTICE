@@ -1,0 +1,12 @@
+This product includes software developed by the Lua.org team.
+
+Lua source code and documentation are available at:
+https://www.lua.org/
+
+Lua is Copyright (c) 1994–2024 Lua.org, PUC-Rio.
+All rights reserved.
+
+Lua is distributed under the terms of the Lua license.
+The complete license text is available in the LICENSE file.
+
+This repository redistributes Lua in unmodified form.
